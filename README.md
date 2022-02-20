@@ -17,7 +17,7 @@
 
 - https://github.com/ashishpatel26/Andrew-NG-Notes
 
-<img height="300" src="resources/coursera.png"/>
+<img height="150" src="resources/deeplearning.png"/>
 
 ### Derin Öğrenme Kitap/Blog:
 
@@ -28,7 +28,6 @@
 - https://d2l.ai/index.html
 
 - https://cs231n.github.io/
--
 
 <img height="350" src="resources/dlbook.png"/>
 
