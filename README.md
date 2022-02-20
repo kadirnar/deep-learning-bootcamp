@@ -17,7 +17,7 @@
 
 - https://github.com/ashishpatel26/Andrew-NG-Notes
 
-<img height="100" src="resources/coursera.png"/>
+<img height="300" src="resources/coursera.png"/>
 
 ### Derin Öğrenme Kitap/Blog:
 
