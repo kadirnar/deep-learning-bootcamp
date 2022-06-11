@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-  Pytorch ve Derin Öğrenme Odaklı 3 Aylık Program
+  Pytorch ve Derin Öğrenme Odaklı 6 Aylık Program
 </h1>
 
 </div>
